@@ -1,0 +1,5 @@
+str2 = 'manoj'*2
+print(str2)
+
+str3 = 'manoj' + "kumar"
+print(str3)

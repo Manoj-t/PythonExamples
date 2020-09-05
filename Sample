@@ -1,0 +1,5 @@
+import keyword
+print(keyword.kwlist)
+print(len(keyword.kwlist))
+
+print(max(10,20,25,35,45))

@@ -1,0 +1,4 @@
+print('This is really "Awesome" ')
+
+print(""" My name is 
+Manoj Kumar""") # This is for Multiline strings
